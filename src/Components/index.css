@@ -1,0 +1,165 @@
+body, html
+{
+    background-color:#89ABE3FF;
+}
+.productImage
+{
+    max-width: 100%;
+    border-radius: 10%;
+
+}
+.productsList
+{
+
+}
+.productShow
+{
+    background-color: rgb(255,255,255,0.5);
+    box-shadow: 0px 5px 20px 5px gray;
+    width: 20%;
+    margin-left: 1.5%;
+    margin-top:2%;
+    padding: 1%;
+    border-radius: 10px;
+    transition: 0.4s linear; 
+    display: inline-block;
+}
+.productShow:hover
+{
+    background-color: rgb(255,255,255,0.9);
+    transition: 0.4s linear;
+}
+.cartIndicator
+{
+    color:rgb(55, 119, 221);  
+    transition: linear 0.6s;
+}
+.cartIndicator:hover
+{
+    color: #89ABE3FF;  
+    transition: linear 0.6s;
+}
+.navbar
+{
+    box-shadow: 0px 2px 0px black;
+    background-color:#FCF6F5FF;
+}
+.addProductButton
+{
+    margin-top: 2%;
+}
+.carouselWrapper
+{
+}
+
+.carouselImage
+{
+    width: 100%;
+    height: 400px;
+}
+.goToMouses
+{
+    display: inline-block;
+    margin-left: 2%;
+    background-color: white;
+    border-radius: 5%;
+    width: 20%;
+    padding: 1%;
+
+}
+.goToMouses .goToMousesBanner
+{
+    max-width: 100%;
+    margin-bottom: 4%;
+    border-radius: 10%;
+}
+.goToKeyboards
+{
+    display: inline-block;
+    margin-left: 2%;
+    background-color: white;
+    border-radius: 5%;
+    width: 20%;
+    padding: 1%;
+
+}
+.goToKeyboards .goToKeyboardsBanner
+{
+    max-width: 100%;
+    margin-bottom: 4%;
+    border-radius: 10%;
+}
+.goToFigures
+{
+    display: inline-block;
+    margin-left: 2%;
+    background-color: white;
+    border-radius: 5%;
+    width: 20%;
+    padding: 1%;
+
+}
+.goToFigures .goToFiguresBanner
+{
+    max-width: 100%;
+    margin-bottom: 4%;
+    border-radius: 10%;
+}.footer
+{
+    background-color: #00A4CCFF;
+    margin-top: 4%;
+    width: 100%;
+}
+.footerInfoHeader
+{
+    color: white;
+}
+.footerInfoHeaderLeftSide
+{
+    color: #89fa18;
+
+}
+.footerInfoHolder
+{
+    color: white;
+}
+.row{
+    width: 100%;
+}
+.footerInfoGithubLeftSide
+{
+    color: white;
+}
+.footerInfoGithubRightSide
+{
+    color: rgb(255, 183, 0);
+}
+.gitHubLink
+{
+    color: rgb(255, 183, 0);
+    transition: linear 0.6s;
+
+}
+.gitHubLink:hover
+{
+    color:#F95700FF;
+    text-decoration: none;
+    transition: linear 0.6s;
+}
+.wishListLink
+{
+    color: rgb(133, 5, 133);
+    transition: 0.4s linear;
+}
+.wishListLink:hover
+{
+    color: rgb(177, 8, 177);
+    transition: 0.4s linear;
+}
+.homeLink{
+    color: orange;
+}
+.homeLink:hover
+{
+    color: orangered;
+}

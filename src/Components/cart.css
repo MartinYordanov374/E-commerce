@@ -1,0 +1,53 @@
+.homeLink{
+    transition: linear 0.6s;
+
+}
+.clearCartButton{
+    margin-top: 1%;
+    box-shadow: 0px 5px 10px 5px rgb(186, 121, 0);
+    transition: 0.6s linear;
+
+}
+.productsCartList{
+    display: grid;
+    margin-top: 2%;
+    box-shadow: 0px 0px 10px 0px black;
+    width: 75%;
+    margin-left: 13%;
+    border-radius: 4px;
+    transition: 0.6s linear;
+
+}
+.productCartShow{
+    background-color: rgb(255,255,255, 0.6);
+    transition: 0.6s linear;
+}
+.productCartShow:hover{
+    background-color: rgb(255,255,255, 0.65);
+    transition: 0.6s linear;
+}
+.productsCartList:hover{
+    box-shadow: 0px 2px 20px 0px black;
+    transition: 0.6s linear;
+
+}
+.productCartName
+{
+    margin-right: 60%;
+}
+.productCartImage
+{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    border-radius: 5%;
+}
+.removeProductButton
+{
+    margin-top: 12.5%;
+    box-shadow: 0px 0px 10px 0px rgb(126, 0, 0);
+    transition: 0.6s linear;
+}
+.hideAlertButton{
+    float: right;
+}

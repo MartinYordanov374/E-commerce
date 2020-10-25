@@ -1,0 +1,31 @@
+.wishListWrapper
+{
+    width: 100%;
+
+}
+.showWishListProducts
+{
+    background-color: rgb(255,255,255,0.8);
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 2.5%;
+    display: inline-block;
+    padding: 1%;
+}
+.wishListProductName
+{
+
+}
+.wishListProductImage
+{
+    max-width: 100%;
+    padding: 10%;
+}
+.wishListProductPrice
+{
+
+}
+.removeProductWishListButton
+{
+    border-radius: 5%;
+}
