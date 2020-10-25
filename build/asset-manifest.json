@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d46bfec5.chunk.css",
+    "main.js": "/static/js/main.be441e87.chunk.js",
+    "main.js.map": "/static/js/main.be441e87.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc30dc24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc30dc24.js.map",
+    "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
+    "static/js/2.c93a350d.chunk.js": "/static/js/2.c93a350d.chunk.js",
+    "static/js/2.c93a350d.chunk.js.map": "/static/js/2.c93a350d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.521161da9291fc2a7cf729a7ca5a23d3.js": "/precache-manifest.521161da9291fc2a7cf729a7ca5a23d3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d46bfec5.chunk.css.map": "/static/css/main.d46bfec5.chunk.css.map",
+    "static/js/2.c93a350d.chunk.js.LICENSE.txt": "/static/js/2.c93a350d.chunk.js.LICENSE.txt",
+    "static/media/RazerBasiliskX.jpg": "/static/media/RazerBasiliskX.3ee6bc22.jpg",
+    "static/media/RazerBlackWidow.jpg": "/static/media/RazerBlackWidow.81be81d3.jpg",
+    "static/media/RazerCynosa.jpg": "/static/media/RazerCynosa.3c10fc5c.jpg",
+    "static/media/RazerDeathAdderV2.jpg": "/static/media/RazerDeathAdderV2.7ee26305.jpg",
+    "static/media/RazerDeathStalker.jpg": "/static/media/RazerDeathStalker.9efd30f7.jpg",
+    "static/media/RazerHuntsmanElite.jpg": "/static/media/RazerHuntsmanElite.e763b2a6.jpg",
+    "static/media/RazerNagaPro.jpg": "/static/media/RazerNagaPro.c1b642ad.jpg",
+    "static/media/RazerViperMini.jpg": "/static/media/RazerViperMini.5c4bd18a.jpg",
+    "static/media/figures.jpg": "/static/media/figures.6038f9c3.jpg",
+    "static/media/hat.jpeg": "/static/media/hat.a0286dd7.jpeg",
+    "static/media/keyboard.jpg": "/static/media/keyboard.9a681f61.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/mouse.jpg": "/static/media/mouse.c51ae15a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc30dc24.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.c93a350d.chunk.js",
+    "static/css/main.d46bfec5.chunk.css",
+    "static/js/main.be441e87.chunk.js"
+  ]
+}
