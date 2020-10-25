@@ -1,0 +1,115 @@
+body, html
+{
+    color: black;
+    background-color: rgb(255, 255, 169);
+    width: 100%;
+    height: 100%;
+}
+
+.enterTaskField
+{
+    width: 50%;
+    margin-left: 25%;
+}
+.submitTaskButton
+{
+    width: 50%;
+    margin-top: 1%;
+    margin-left: 25%;
+    box-shadow: 0px 0px 20px 0px rgb(57, 140, 57);
+    transition: linear 0.8s;
+
+}
+.submitTaskButton:hover
+{
+    box-shadow: 0px 0px 20px 0px rgb(57, 100, 57);
+    transition: linear 0.8s;
+}
+.enterTaskHeader
+{
+    text-align: center;
+}
+.taskDiv
+{
+ width: 50%;
+ margin-top: 1%;
+ margin-left: 25%;
+ background-color: rgb(109, 228, 109);
+ border-radius: 10px;
+ text-align: center;
+ color: white;
+ box-shadow: 0px 0px 20px 0px rgb(57, 140, 57);
+}
+
+.taskId
+{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 10px;
+    filter: drop-shadow(0px 0px 15px rgb(16, 41, 16));
+
+}
+.taskText
+{
+    filter: drop-shadow(0px 0px 15px rgb(16, 41, 16));
+    font-size: 20px;
+}
+.taskRemove
+{
+    text-align: left;
+}
+.footer
+{
+    background-color: #16a938;
+    margin-top: 20%;
+    width: 100%;
+}
+.footerInfoHeader
+{
+    color: white;
+}
+.footerInfoHeaderLeftSide
+{
+    color: #89fa18;
+
+}
+.footerInfoHolder
+{
+    color: white;
+}
+.row{
+    width: 100%;
+}
+.footerInfoGithubLeftSide
+{
+    color: white;
+}
+.footerInfoGithubRightSide
+{
+    color: rgb(255, 183, 0);
+}
+.gitHubLink
+{
+    color: white;
+    transition: linear 0.6s;
+
+}
+.gitHubLink:hover
+{
+    color: rgb(255, 183, 0);
+    text-decoration: none;
+    transition: linear 0.6s;
+}
+
+.nav-link
+{
+    transition: linear 0.6s;
+}
+.nav-link:hover
+{
+    transition: linear 0.6s;
+
+}
+
+
+
